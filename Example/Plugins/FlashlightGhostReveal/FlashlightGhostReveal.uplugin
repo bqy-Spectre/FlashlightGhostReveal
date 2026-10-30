@@ -1,0 +1,21 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Flashlight Ghost Reveal",
+  "Description": "Surface-local flashlight reveal with light-space depth occlusion.",
+  "Category": "Rendering",
+  "CreatedBy": "Ghost Reveal",
+  "CanContainContent": true,
+  "Installed": false,
+  "SupportedTargetPlatforms": [
+    "Win64"
+  ],
+  "Modules": [
+    {
+      "Name": "FlashlightGhostReveal",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
